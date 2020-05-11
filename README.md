@@ -1,2 +1,2 @@
-# smartBrain
-curse content
+# SmartBrain
+
